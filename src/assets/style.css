@@ -1,0 +1,11 @@
+@font-face {
+
+  font-family: 'game' ;
+  src: url('Game of Thrones.ttf') format('truetype');
+
+}
+
+h1{
+
+  font-family: game;
+}

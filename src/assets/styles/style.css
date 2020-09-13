@@ -1,0 +1,42 @@
+p,
+label {
+
+  color: antiquewhite;
+  font-family: 'samantha';
+  font-size: 40px;
+  text-align: center;
+
+}
+
+h2 {
+  color: rgb(112, 110, 110);
+  font-family: 'samantha';
+  font-size: 50px;
+  text-align: center;
+
+
+}
+
+h3,
+li {
+
+  color: rgb(14, 8, 8);
+  font-family: 'samantha';
+  font-size: 55px;
+  text-align: center;
+
+}
+
+input {
+  border-radius: 20%;
+  padding-top: 15px;
+  width: 500px;
+  border-radius: 10px;
+  border-color: #ffffff;
+  cursor: pointer;
+}
+
+body {
+  margin: 0;
+  font-family: 'Nunito SemiBold', sans-serif;
+}
